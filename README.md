@@ -26,15 +26,14 @@
   </a>
   </p>
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  <a href="https://github.com/Ort4vio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ort4vio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ort4vio&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/Ort4vi0">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ort4vi0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ort4vi0&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-</p>
-<p align="center">
+</div>
   <img src="https://komarev.com/ghpvc/?username=Ort4vio&label=Profile%20views&color=0e75b6&style=flat" alt="Ort4vio" />
 </p>
 
