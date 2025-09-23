@@ -13,7 +13,7 @@
 - 💡 Tenho interesse em desenvolvimento de software e estou sempre buscando aprender novas tecnologias.
 - 🌱 No momento, estou focando em aprimorar minhas habilidades em **JavaScript** e **C**.
 - 📫 Como entrar em contato comigo: **gotaviosonnenstrahl@gmail.com**
-- 🎂 Nascido em: Novembro de 2006.
+- 🎂 Nascido em: 09 de Novembro de 2006.
 
 ## 🚀 Habilidades
 
