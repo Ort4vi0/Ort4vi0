@@ -7,6 +7,10 @@
   <em>Estudante de Engenharia de Software na UEPG em busca da minha primeira oportunidade como estagiário.</em>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ort4vio&label=Profile%20views&color=0e75b6&style=flat" alt="Ort4vio" />
+</p>
+
 ## 👨‍💻 Sobre Mim
 
 - 🎓 Atualmente cursando **Engenharia de Software** na Universidade Estadual de Ponta Grossa (UEPG).
@@ -36,8 +40,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ort4vi0&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=Ort4vio&label=Profile%20views&color=0e75b6&style=flat" alt="Ort4vio" />
-</p>
 
 ## 📌 Projetos em Destaque
 
