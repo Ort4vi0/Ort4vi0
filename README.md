@@ -16,7 +16,7 @@
 - 🎓 Atualmente cursando **Engenharia de Software** na Universidade Estadual de Ponta Grossa (UEPG).
 - 💡 Tenho interesse em desenvolvimento de software e estou sempre buscando aprender novas tecnologias.
 - 🌱 No momento, estou focando em aprimorar minhas habilidades em **JavaScript** e **C**.
-- 📫 Como entrar em contato comigo: ** contato@otaviosonnenstrahl.dev || gotaviosonnenstrahl@gmail.com**
+- 📫 Como entrar em contato comigo: **contato@otaviosonnenstrahl.dev** || **gotaviosonnenstrahl@gmail.com**
 - 🎂 Nascido em: 09 de Novembro de 2006.
 
 ## 🚀 Habilidades
